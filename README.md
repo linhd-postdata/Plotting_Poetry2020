@@ -6,6 +6,8 @@ The corpus used in this study includes four Early Modern Spanish poets, namely G
 
 The texts are offered in three versions:
 
-- An untagged (plain text) version of the corpus is included in the "corpus" folder.
+- An untagged (plain text) version of the corpus is included in the "corpora" folder.
 
-- The automatically annotated version with stress positions is included in the "" folder. This one does not include the text of the poems, but only stress positions detected by Rantanplan (De la Rosa et al., 2020). Stress positions are marked by the number corresponding to the syllable order 
+- The automatically annotated version with stress positions is included in the "stress_annotation" folder. This one does not include the text of the poems, but only stress positions detected by Rantanplan (De la Rosa et al., 2020). Stress positions are marked by a number corresponding to the syllable order in the verse.
+
+-The final version of the texts has been automatically annotated with stress positions and stanzas. It does not include the text of the poem. Also, as it was the version used in stylo (Eder et al., 2016), stress positions are marked using a special notation, which can be find at
