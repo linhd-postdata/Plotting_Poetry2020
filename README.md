@@ -14,14 +14,14 @@ The texts are offered in three versions:
 
 -The final version of the texts has been automatically annotated with stress positions and stanzas. It does not include the text of the poem. Also, as it was the version used in stylo (Eder et al., 2016), stress positions are marked using a special notation, which can be find at "Notatio_for_stress_positions.csv".
 
-The corpus used for Garcilaso was scrapped from Wikipedia:https://es.wikisource.org/wiki/Autor:Garcilaso_de_la_Vega (accessed: 24/11/2020)
+The corpus used for Garcilaso was scrapped from Wikipedia: https://es.wikisource.org/wiki/Autor:Garcilaso_de_la_Vega (accessed: 24/11/2020)
 
-The corpus used for Góngora is the undoubted section of gongocorpus, available at:
+The corpus used for Góngora is the undoubted section of gongocorpus, available at: https://github.com/linhd-postdata/gongocorpus (accessed: 24/11/2020)
 
 The corpus used for Lope de Vega was extracted from Biblioteca Virtual Miguel de Cervantes: http://www.cervantesvirtual.com/obra-visor/poesias-liricas--0/html/ff775820-82b1-11df-acc7-002185ce6064.html (accessed: 24/11/2020)
 
 ## Complete stanza results
 
-The complete stanza results on the 
+The complete stanza results after applying Rantanplan are collected in ""
 
 ##
