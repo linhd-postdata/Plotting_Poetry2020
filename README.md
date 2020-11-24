@@ -12,7 +12,7 @@ The texts are offered in three versions:
 
 - The automatically annotated version with stress positions is included in the "stress_annotation" folder. This one does not include the text of the poems, but only stress positions detected by Rantanplan (De la Rosa et al., 2020). Stress positions are marked by a number corresponding to the syllable order in the verse.
 
--The final version of the texts has been automatically annotated with stress positions and stanzas. It does not include the text of the poem. Also, as it was the version used in stylo (Eder et al., 2016), stress positions are marked using a special notation, which can be find at "Notatio_for_stress_positions.csv".
+- The final version of the texts has been automatically annotated with stress positions and stanzas. It does not include the text of the poem. Also, as it was the version used in stylo (Eder et al., 2016), stress positions are marked using a special notation, which can be find at "Notatio_for_stress_positions.csv".
 
 The corpus used for Garcilaso was scrapped from Wikipedia: https://es.wikisource.org/wiki/Autor:Garcilaso_de_la_Vega (accessed: 24/11/2020)
 
