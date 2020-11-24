@@ -22,6 +22,4 @@ The corpus used for Lope de Vega was extracted from Biblioteca Virtual Miguel de
 
 ## Complete stanza results
 
-The complete stanza results after applying Rantanplan are collected in ""
-
-##
+The complete stanza results after applying Rantanplan on the complete poetic works by Garcilaso, Herrera, Góngora and Lope de Vega are collected in "stanza-results.csv". They include a list of 47 stanza types, from which a total of 27 were identified in, at least, one of our authors. Numbers correspond to relative values on percentages, calculated using the absolute values of each detected stanza and the total number of identified stanzas per author.
