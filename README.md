@@ -1,6 +1,6 @@
 # Plotting_Poetry2020
 
-This repository includes complementary materials of our paper for Plotting Poetry Proceedings: Hernández-Lorenzo, L.; De Sisto, M., Pérez, Á.; De la Rosa, J.; Ros, S.; González-Blanco, E.: "Quantitative metrical automatic analysis of Spanish Poetry with Rantanplan: a first approach".
+This repository includes complementary materials of our paper for Plotting Poetry Proceedings: Hernández-Lorenzo, L.; De Sisto, M.; Pérez, Á.; De la Rosa, J.; Ros, S.; González-Blanco, E.: "Automatic quantitative metrical analysis of Spanish Poetry with Rantanplan: a first approach".
 
 ## Corpus
 
