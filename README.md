@@ -4,7 +4,7 @@ This repository includes complementary materials of our paper for Plotting Poetr
 
 ## Corpus
 
-The corpus used in this study includes four Early Modern Spanish poets, namely Garcilaso de la Vega (1503-1536), Fernando de Herrera (1534-1597), Luis de Góngora (1561-1627) and Lope de Vega (1562-1635). The poems of each author are available in this repository, with the exception of Fernando de Herrera, whose texts were extracted from Laura Hernández-Lorenzo's unpubished dissertion (Hernández-Lorenzo 2020). For this reason, only stress and stanza annotation is available for this poet.
+The corpus used in this study includes four Early Modern Spanish poets, namely Garcilaso de la Vega (1503-1536), Fernando de Herrera (1534-1597), Luis de Góngora (1561-1627) and Lope de Vega (1562-1635). The poems of each author are available in this repository, with the exception of Fernando de Herrera, whose texts were extracted from Laura Hernández-Lorenzo's unpubished dissertion (Hernández-Lorenzo 2020). For this reason, only stress and stanza annotation are available for this poet.
 
 The texts are offered in three versions:
 
@@ -12,7 +12,7 @@ The texts are offered in three versions:
 
 - The automatically annotated version with stress positions is included in the "stress_annotation" folder. This one does not include the text of the poems, but only stress positions detected by Rantanplan (De la Rosa et al., 2020). Stress positions are marked by a number corresponding to the syllable order in the verse.
 
-- The final version of the texts has been automatically annotated with stress positions and stanzas. It does not include the text of the poem. Also, as it was the version used in stylo (Eder et al., 2016), stress positions are marked using a special notation, which can be find at "Notatio_for_stress_positions.csv".
+- The automatically annotated version with stress positions and stanza information is included in the "stress-and-stanza_annotation" folder. Similarly to the previous version, this one does not inlude the text of the poems, but only stress positions and stanzas detected by Rantanplan (De la Rosa et al., 2020).
 
 The corpus used for Garcilaso was scrapped from Wikipedia: https://es.wikisource.org/wiki/Autor:Garcilaso_de_la_Vega (accessed: 24/11/2020)
 
